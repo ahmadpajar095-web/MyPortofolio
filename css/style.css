@@ -58,7 +58,7 @@ header {
 }
 .mainHero img {
     height: 800px;
-    animation: fadein 3s ease 2s ;
+    animation: fadein 3s ease ;
 }
 .mainName p {
     font-size: 40px;
