@@ -15,7 +15,8 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 25px 50px;
-    font-size: 18px;
+    font-size: 25px;
+    font-weight: 600;
     color: #EBF4F6;
     box-shadow: 0px 7px 8px #20242a;
 }
